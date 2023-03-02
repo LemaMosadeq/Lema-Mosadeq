@@ -1,0 +1,4 @@
+
+A pull request is a way to submit a contribution to a software project using a version control system such as Git. Developers use pull requests to propose changes to a codebase.
+Using a pull request, a developer can show everyone who is working on a project what changes they think are necessary. For instance, if a developer is working on a bug fix, they could create a pull request to show everyone their solution to the bug.
+When a pull request is created, anyone on the project can view that pull request. In this case, it would mean that a developer could ask for feedback on their bug fix from other team members. This all happens without making a change to the final codebase.
