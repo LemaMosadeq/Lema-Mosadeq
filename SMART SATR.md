@@ -1,4 +1,4 @@
-Specific: well fefined clear and unambiguous .
+Specific: well defined clear and unambiguous .
 
 Measurable: with specific criteria that measure your progress toward the acomplishment of the goal
 .
