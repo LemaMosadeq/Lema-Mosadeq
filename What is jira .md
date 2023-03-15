@@ -1,11 +1,11 @@
 ## Jira Software: 
 
-	• It is the most popular Jira product. It is built for teams to plan, track, and ship world-class software.
+	 It is the most popular Jira product. It is built for teams to plan, track, and ship world-class software.
 	Who use jira Software?
-	• Any type of team can use Jira Software, but it is mostly used by software development teams.
+	 Any type of team can use Jira Software, but it is mostly used by software development teams.
 	Jira have different product. ( jira software , Jira work management , jira service management , jira Align )
 Jira Work Management: 
-	• It is for business projects and it is not related to software development.
+	 It is for business projects and it is not related to software development.
 	• It helps teams manage business projects such as marketing campaigns, HR onboarding, financial approvals, and legal document reviews.
 	• Business teams that are not developing software. Think marketing, HR, operations, legal, finance. Any department in your organization can use Jira Work Management to manage their work.
 Jira Service Management: 
