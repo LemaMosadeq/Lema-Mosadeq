@@ -5,15 +5,15 @@ Who use jira Software?
 Any type of team can use Jira Software, but it is mostly used by software development teams.
 Jira have different product. ( jira software , Jira work management , jira service management , jira Align )
 Jira Work Management: 
-	 It is for business projects and it is not related to software development.
-	• It helps teams manage business projects such as marketing campaigns, HR onboarding, financial approvals, and legal document reviews.
-	• Business teams that are not developing software. Think marketing, HR, operations, legal, finance. Any department in your organization can use Jira Work Management to manage their work.
+It is for business projects and it is not related to software development.
+It helps teams manage business projects such as marketing campaigns, HR onboarding, financial approvals, and legal document reviews.
+ Business teams that are not developing software. Think marketing, HR, operations, legal, finance. Any department in your organization can use Jira Work Management to manage their work.
 Jira Service Management: 
-	• It is for IT ticketing and service requests. It helps teams respond quickly to service requests and deliver great customer service experiences.
-	• Mostly IT Ops, Dev teams, or any other type of service-based team.
+ It is for IT ticketing and service requests. It helps teams respond quickly to service requests and deliver great customer service experiences.
+ Mostly IT Ops, Dev teams, or any other type of service-based team.
 Jira Align:
-	•  It is to help large enterprise teams unlock agility across their entire organization; connecting business strategy to technical execution.
-	• Mostly large enterprise organizations use it.
+ It is to help large enterprise teams unlock agility across their entire organization; connecting business strategy to technical execution.
+ Mostly large enterprise organizations use it.
 
 Managing work in Jira helps your team be more transparent, efficient, and collaborative. 
 
